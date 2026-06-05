@@ -2,6 +2,10 @@
 
 一个纯前端的 OpenAI API 连通性检测工具，支持自动获取模型列表、逐个检测连通性、实时日志追踪。
 
+## 🚀 快速体验
+
+👉 [在线体验](https://landamao.github.io/openai-api-tester/)
+
 ## ✨ 功能特性
 
 - 📋 智能剪贴板读取 — 自动从剪贴板提取 API URL 和 Key
